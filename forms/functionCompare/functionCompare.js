@@ -1,4 +1,4 @@
-
+/*
 let states = ["Nebraska", "Iowa", "Minnesota", "South Dakota", "North Dakota", "Kansas", "Oklahoma", "Texas"]
 
 states.reverse()
@@ -22,4 +22,4 @@ if (compare == 0) {
 else{
   console.log("The passwords are not the same. ")
   }
-  
+  */
