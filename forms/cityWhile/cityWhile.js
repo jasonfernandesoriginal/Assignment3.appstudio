@@ -1,4 +1,4 @@
-
+/*
 let cities = []
 let stop = 'Stop'
 let i = 0
@@ -17,3 +17,5 @@ while (i < cities.length) {
   console.log(lowerCities.join('\r\n'))
   i++
 }
+
+*/
